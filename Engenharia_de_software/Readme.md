@@ -10,8 +10,14 @@ Gabriel da Silva Vieira - github.com/DevBielgrazi
 
 **Data:19/08**
 Requisitos funcionais:
->Adicionar figurinhas já coletadas
->Visualizar figurinhas faltantes
+>Adicionar figurinhas já coletadas<br>
+>Visualizar figurinhas faltantes<br>
+>Compartilhar informações com amigos
 
 Requisitos não-funcionais:
->
+>Plano de fundo de acordo com o país selecionado<br>
+>Paleta de cores baseada no mundial<br>
+>Disponível em dispositivos móveis<br>
+
+<b>Modelo de Caso e Uso<br>
+<img src="dcu.png">
