@@ -19,5 +19,8 @@ Requisitos não-funcionais:
 >Paleta de cores baseada no mundial<br>
 >Disponível em dispositivos móveis<br>
 
-<b>Modelo de Caso e Uso<br>
-<img src="dcu.png">
+<b>Diagrama de Caso e Uso<br>
+<img src="dcu.png"><p>
+
+<b>Diagrama Sequencial<br>
+<img src="ds.png">
