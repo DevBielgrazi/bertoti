@@ -24,3 +24,6 @@ Requisitos não-funcionais:
 
 <b>Diagrama Sequencial<br>
 <img src="ds.png">
+
+<b>Diagrama de Classes<br>
+<img src="dc.png">
