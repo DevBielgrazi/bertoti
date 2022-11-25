@@ -15,9 +15,7 @@ Requisitos funcionais:
 >Compartilhar informações com amigos
 
 Requisitos não-funcionais:
->Plano de fundo de acordo com o país selecionado<br>
 >Paleta de cores baseada no mundial<br>
->Disponível em dispositivos móveis<br>
 
 <b>Diagrama de Caso e Uso<br>
 <img src="dcu.png"><p>
