@@ -1,0 +1,11 @@
+.combo-box-base {-fx-mark-color: gold; }
+
+.combo-box .list-cell{
+    -fx-background-color: gold;
+    -fx-text-fill: #880000;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: gold;
+    -fx-text-fill: #880000;
+}
