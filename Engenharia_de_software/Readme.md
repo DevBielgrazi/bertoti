@@ -25,3 +25,18 @@ Requisitos não-funcionais:
 
 <b>Diagrama de Classes<br>
 <img src="dc.png">
+
+<b>Classe Usuario<br>
+<img src="Classe_Usu.png">
+
+<b>Classe UsuarioDAO<br>
+<img src="Classe_UsuDAO.png">
+
+<b>Classe Pais<br>
+<img src="Classe_Pai.png">
+
+<b>Classe PaisDAO<br>
+<img src="Classe_PaiDAO.png">
+
+<b>Classe AlbumDAO<br>
+<img src="Classe_AlbDAO.png">
